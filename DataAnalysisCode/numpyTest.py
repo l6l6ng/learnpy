@@ -1,21 +1,22 @@
 #encoding=utf-8
 import numpy as np
-def startMain():
+
+def main():
     lst = [[1,3,5],[2,4,6]]
-    print type(lst)
+    print(type(lst))
 
-    np_lst = np.array(lst)
-    print type(np_lst)
-    np_lst = np.array(lst,dtype=np.float)
-    print type(np_lst)
-    print np_lst.shape
-    print np_lst.dtype
-    print np_lst.itemsize
-    print np_lst.size
+    np_list = np.array(lst,dtype=float)
+    print(type(np_list))
 
-    print np.ones([3,4])
+    print(np_list.shape)
 
-    print np.random.randint(2,5)
+    print(np_list.dtype)
 
-if __name__=="__main__":
-    startMain()
+    print(np.zeros([2,4]))
+    print(np.ones([2,4]))
+
+    print(np.random.rand(2,4))
+    print(np.random.randint(2,4,5))
+
+if __name__ == "__main__":
+    main()
