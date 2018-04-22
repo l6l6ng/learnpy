@@ -44,7 +44,7 @@ def hard_request():
     from requests import Request,session
     s = session()
     headers = {'User-Agent':'fake1.3.4'}
-    req = Request('GET',build_uri('user/emails'),auth=('dfsd534','l245517264'),headers=headers)
+    req = Request('GET',build_uri('user/emails'),auth=('dfsd534','123456'),headers=headers)
     prepped = req.prepare()
     print(prepped.body)
     print(prepped.headers)
