@@ -1,3 +1,2 @@
-str = "hello world"
-print (str(str))
+print(111)
 
