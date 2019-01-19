@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="743b7e5b-1b5e-44d0-ac77-ee0344615363" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/panda2-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/pandas1-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/pandas1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/pandas2-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/pandas2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/py190113.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/py190114.py" afterDir="false" />
+    <list default="true" id="743b7e5b-1b5e-44d0-ac77-ee0344615363" name="Default" comment="pandas学习">
+      <change afterPath="$PROJECT_DIR$/practice/py190119.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="learnpy.iws" />
@@ -98,11 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practice/pandas2-2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="48" column="17" lean-forward="true" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+            <state relative-caret-position="218">
+              <caret line="67" column="23" lean-forward="true" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -110,11 +104,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/practice/py190119.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/practice/pandas1-1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="968">
-              <caret line="44" column="21" lean-forward="true" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+            <state relative-caret-position="376">
+              <caret line="43" column="4" lean-forward="true" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -149,7 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/get_report_byxlwings.py" />
         <option value="$PROJECT_DIR$/pythontest/wxpy.py" />
         <option value="$PROJECT_DIR$/pythontest/wxpytest.py" />
         <option value="$PROJECT_DIR$/upload_question.py" />
@@ -200,13 +202,14 @@
         <option value="$PROJECT_DIR$/practice/data/panda2-1.py" />
         <option value="$PROJECT_DIR$/practice/panda2-1.py" />
         <option value="$PROJECT_DIR$/practice/pandas2-2.py" />
+        <option value="$PROJECT_DIR$/practice/py190119.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="643" />
-    <option name="width" value="1037" />
-    <option name="height" value="1047" />
+    <option name="x" value="803" />
+    <option name="width" value="1297" />
+    <option name="height" value="1309" />
   </component>
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
@@ -258,7 +261,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pandas2-2">
+  <component name="RunManager" selected="Python.py190119">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -339,25 +342,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pandas1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="learnpy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/pandas1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="pandas2-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learnpy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -388,6 +372,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/pandas2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="py190119" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="learnpy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/py190119.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -453,19 +456,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.pandas1" />
       <item itemvalue="Python.pandas1-1" />
       <item itemvalue="Python.pandas2" />
       <item itemvalue="Python.panda2-1" />
       <item itemvalue="Python.pandas2-2" />
+      <item itemvalue="Python.py190119" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.py190119" />
         <item itemvalue="Python.pandas2-2" />
         <item itemvalue="Python.pandas1-1" />
         <item itemvalue="Python.panda2-1" />
         <item itemvalue="Python.pandas2" />
-        <item itemvalue="Python.pandas1" />
       </list>
     </recent_temporary>
   </component>
@@ -481,7 +484,7 @@
       <updated>1500199856460</updated>
       <workItem from="1547477172504" duration="112000" />
       <workItem from="1547477322004" duration="134000" />
-      <workItem from="1547477512939" duration="5409000" />
+      <workItem from="1547477512939" duration="7479000" />
     </task>
     <task id="LOCAL-00001" summary="some test">
       <created>1513773242762</created>
@@ -539,7 +542,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544451613622</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="pandas学习">
+      <created>1547563169007</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1547563169007</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -548,7 +558,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5655000" />
+    <option name="totallyTimeSpent" value="7725000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -560,10 +570,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20095949" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25268096" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -576,7 +586,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49791667" weight="0.1948775" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50208336" side_tool="true" weight="0.32870865" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32516703" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.31403118" />
+      <window_info anchor="bottom" id="Python Console" order="10" visible="true" weight="0.41348973" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -644,16 +654,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="some test" />
-    <option name="LAST_COMMIT_MESSAGE" value="some test" />
+    <MESSAGE value="pandas学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="pandas学习" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pythontest/wxpytest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/upload_question.py" />
     <entry file="file://$PROJECT_DIR$/data/excel_to_excel.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -941,13 +945,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice/pandas1-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="968">
-          <caret line="44" column="21" lean-forward="true" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practice/data/birth1880.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -984,13 +981,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/practice/pandas1-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="43" column="4" lean-forward="true" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/practice/pandas2-2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="48" column="17" lean-forward="true" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+        <state relative-caret-position="218">
+          <caret line="67" column="23" lean-forward="true" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/py190119.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
