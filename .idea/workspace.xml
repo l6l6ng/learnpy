@@ -2,38 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="743b7e5b-1b5e-44d0-ac77-ee0344615363" name="Default" comment="python学习">
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/jupyter_test190921-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/numpy-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/pandas-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/数据清晰何准备-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/数据聚合与分租运算-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/未命名-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/未命名1-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/191107.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jupyter_test190921.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mydata.sqlite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urllib/add_password.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urllib/cookies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urllib/error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urllib/error2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urllib/proxy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urllib/request.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/公办学校学校得分.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/公办学校学校得分1.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/利用python进行数据分析/.ipynb_checkpoints/20180120-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据清晰何准备.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据聚合与分租运算.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/未命名.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/未命名1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/督导任务专家打分明细191107.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/learnpy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learnpy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jupyter/example.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jupyter/matplotlib.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jupyter/xlwt.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordcloud/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/wordcloud/demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordcloud/panda.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wordcloud/panda.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/利用python进行数据分析/20180120.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/利用python进行数据分析/20180120.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -124,8 +97,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -156,8 +129,8 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="sqlite&#10;mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sp" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -448,7 +421,9 @@
       <workItem from="1561875841050" duration="2981000" />
       <workItem from="1568643822126" duration="6773000" />
       <workItem from="1573481783684" duration="2023000" />
-      <workItem from="1575119746549" duration="389000" />
+      <workItem from="1575119746549" duration="906000" />
+      <workItem from="1575189213456" duration="114000" />
+      <workItem from="1575189364710" duration="4626000" />
     </task>
     <task id="LOCAL-00001" summary="some test">
       <created>1513773242762</created>
@@ -527,17 +502,15 @@
       <option name="project" value="LOCAL" />
       <updated>1554617884004</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="python学习">
+      <created>1575120280864</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1575120280864</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
