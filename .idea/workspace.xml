@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="743b7e5b-1b5e-44d0-ac77-ee0344615363" name="Default" comment="python学习">
-      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jupyter/example.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jupyter/matplotlib.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jupyter/xlwt.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/learnpy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learnpy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/image2html.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo/image2html.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,9 +89,6 @@
     </expand>
     <select />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="learnpy" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -112,24 +107,30 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/pythontest/def.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/tensorflow/one.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/DataAnalysisCode/matplotlib/9.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/DataAnalysisCode/matplotlib/3d1.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/practice/py181209.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/pythontest/1.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/tensorflow/one.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/pythontest/def.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/DataAnalysisCode/matplotlib/3d1.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/practice/py181211.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/DataAnalysisCode/matplotlib/9.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/pythontest/1.py" root0="SKIP_INSPECTION" />
   </component>
+  <component name="JupyterTrust" id="b3f4d50d-9dd3-4850-867c-81c070d8e896" />
   <component name="ProjectId" id="1QvGmCozbLMghNttpmw2IXyjgvr" />
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="sqlite&#10;mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -138,19 +139,7 @@
       <recent name="E:\github\learnpy" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.error">
+  <component name="RunManager">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,108 +182,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="add_password" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learnpy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/urllib" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gridstudio" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/urllib/add_password.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="cookies" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="learnpy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/urllib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/urllib/cookies.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="error" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="learnpy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/urllib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/urllib/error.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="proxy" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="learnpy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/urllib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/urllib/proxy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="request" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="learnpy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/urllib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/urllib/request.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gridstudio/data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -354,49 +252,19 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;.&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.request" />
-      <item itemvalue="Python.error" />
-      <item itemvalue="Python.proxy" />
-      <item itemvalue="Python.add_password" />
-      <item itemvalue="Python.cookies" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.error" />
-        <item itemvalue="Python.cookies" />
-        <item itemvalue="Python.add_password" />
-        <item itemvalue="Python.proxy" />
-        <item itemvalue="Python.request" />
+        <item itemvalue="Python.data" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="allServicesViewState">
-      <serviceView>
-        <option name="contentProportion" value="0.11363637" />
-        <treeState>
-          <expand>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@2eb9fa4f" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-            </path>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@2eb9fa4f" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@450bf079" type="9fbbdea:ServiceModel$ServiceNode" />
-            </path>
-          </expand>
-          <select />
-        </treeState>
-      </serviceView>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -424,6 +292,10 @@
       <workItem from="1575119746549" duration="906000" />
       <workItem from="1575189213456" duration="114000" />
       <workItem from="1575189364710" duration="4626000" />
+      <workItem from="1613911590404" duration="2913000" />
+      <workItem from="1614581307491" duration="47000" />
+      <workItem from="1614581363828" duration="6000" />
+      <workItem from="1614775650383" duration="5040000" />
     </task>
     <task id="LOCAL-00001" summary="some test">
       <created>1513773242762</created>
@@ -513,7 +385,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.gitignore" />
@@ -523,9 +395,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -544,6 +414,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -559,6 +430,30 @@
     <MESSAGE value="pandas学习" />
     <MESSAGE value="python学习" />
     <option name="LAST_COMMIT_MESSAGE" value="python学习" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="231" width="1071" height="754" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614825951121">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="360" y="231" width="1071" height="754" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.25.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1614825951121" />
+    <state x="360" y="231" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1614776027499" />
+    <state x="684" y="330" key="FileChooserDialogImpl" timestamp="1613913498500">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="684" y="330" key="FileChooserDialogImpl/0.25.1792.1095@0.25.1792.1095" timestamp="1613913498500" />
+    <state x="405" y="208" key="SettingsEditor" timestamp="1614825925303">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="405" y="208" key="SettingsEditor/-1920.25.1920.1055/0.25.1792.1095@0.25.1792.1095" timestamp="1614825925303" />
+    <state x="405" y="208" key="SettingsEditor/0.25.1792.1095@0.25.1792.1095" timestamp="1613913510613" />
+    <state width="500" height="400" key="SwitcherDM" timestamp="1613911810996">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="500" height="400" key="SwitcherDM/0.25.1792.1095@0.25.1792.1095" timestamp="1613911810996" />
+    <state x="597" y="205" width="597" height="735" key="find.popup" timestamp="1613911925681">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="597" y="205" width="597" height="735" key="find.popup/0.25.1792.1095@0.25.1792.1095" timestamp="1613911925681" />
   </component>
   <component name="masterDetails">
     <states>
